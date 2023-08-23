@@ -23,8 +23,8 @@ In this project, I explored the world of image classification using deep learnin
 
 ## Project Files
 
-- `[file name].ipynb`: Jupyter Notebook containing the code for the project.
-- `[folder name]/`: Directory containing the dog images dataset.
+- check_images.py: Jupyter Notebook containing the code for the project.
+- pet_images: Directory containing the dog images dataset.
 - `README.md`: This file, providing an overview of the project.
 
 ## Getting Started
@@ -33,10 +33,10 @@ To explore and run the code in this project, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    
-   git clone https://github.com/[your-username]/[repository name].git
+   git clone https://github.com/RawanMourad/Dog-Breed-Classification-using-Pretrained-Image-Classifiers .git
    
 
-2. Open the Jupyter Notebook `[file name].ipynb` using Jupyter or JupyterLab.
+2. Open the Jupyter Notebook check_images.py using Jupyter or JupyterLab.
 
 3. Run each cell in the notebook sequentially to replicate the data preprocessing, model selection, training, and evaluation process.
 
@@ -52,4 +52,4 @@ I would like to express my gratitude to AWS for providing the scholarship opport
 
 ## Contact
 
-If you have any questions, suggestions, or would like to connect, feel free to reach out to me on LinkedIn [insert LinkedIn profile link].
+If you have any questions, suggestions, or would like to connect, feel free to reach out to me on LinkedIn: linkedin.com/in/rawan-mourad-058b7b243.
