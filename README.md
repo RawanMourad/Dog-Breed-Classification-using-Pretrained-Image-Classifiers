@@ -38,7 +38,7 @@ To explore and run the code in this project, follow these steps:
 
 2. Open the Jupyter Notebook check_images.py using Jupyter or JupyterLab.
 
-3. Run each cell in the notebook sequentially to replicate the data preprocessing, model selection, training, and evaluation process.
+3. Run the python file but check for correct directory paths
 
 ## Requirements
 
